@@ -1,4 +1,4 @@
-# URL Phishing Detection Using Llama 2
+# URL Phishing Detection Using LLaMA 2
 This project explores the use of deep learning techniques for URL phishing detection. We use a transformer-based model called Llama 2 to classify URLs as phishing or legitimate.  
 
 ## Description
