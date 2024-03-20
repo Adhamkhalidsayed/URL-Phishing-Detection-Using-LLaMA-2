@@ -88,7 +88,3 @@ The `Rest API Flask` folder contains the following structure:
 
 Ensure that you have the necessary files, folder and dependencies installed to run the API.
 
-
-
-
-# URL-Phishing-Detection-Using-LLaMA-2
